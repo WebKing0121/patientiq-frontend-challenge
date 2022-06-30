@@ -1,0 +1,1 @@
+export const account = (rootState) => rootState.account;

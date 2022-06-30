@@ -1,0 +1,12 @@
+.search-form .css-1q6at85-MuiInputBase-root-MuiOutlinedInput-root {
+  border-radius: 0 !important;
+}
+
+.search-form .css-sghohy-MuiButtonBase-root-MuiButton-root {
+	border-radius: 0 !important;
+  background-color: black !important;
+}
+
+.search-form .css-sghohy-MuiButtonBase-root-MuiButton-root.Mui-disabled {
+  background-color: rgba(0, 0, 0, 0.12) !important;
+}

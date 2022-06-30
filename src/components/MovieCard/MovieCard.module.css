@@ -1,0 +1,11 @@
+.movie-image {
+  padding-top: 150%;
+}
+
+.buy-btn {
+	border: 1px solid #333 !important;
+	border-radius: 0 !important;
+	background-color: white !important;
+	color: black !important;
+	height: 48px;
+}
